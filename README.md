@@ -1,5 +1,5 @@
-# Projects
-Project Report: Mercedes-Benz Greener Manufacturing
+# Project
+Mercedes-Benz Greener Manufacturing
 
 Summary:
 
